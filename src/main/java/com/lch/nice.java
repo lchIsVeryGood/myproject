@@ -17,4 +17,7 @@ public class nice {
     public void bases(){
         System.out.println("分支添加");
     }
+     public void basess(){
+        System.out.println("wotianjiia添加");
+    }
 }
