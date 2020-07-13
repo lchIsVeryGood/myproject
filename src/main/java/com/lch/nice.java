@@ -14,4 +14,7 @@ public class nice {
     public void base(){
         System.out.println("主干添加");
     }
+    public void bases(){
+        System.out.println("分支添加");
+    }
 }
