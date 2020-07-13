@@ -11,4 +11,7 @@ public class nice {
     public void saysssss(){
         System.out.println("12创建分支");
     }
+    public void bases(){
+        System.out.println("分支添加");
+    }
 }
